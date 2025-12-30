@@ -7,8 +7,7 @@ This respository contains the code and paths to structured data to reproduce all
    * tfcACC.mat
    * tfcRSC.mat
 2. Code
-   * shockStabilityAnalysisPipeline.m
-   * tfcAnalysisPipeline.m
+   * mainAnalysisPipeline.m
    * special functions
 ## Data structures
 All structures are organized with pre-processed (longitudinally registered, detrended for photobleaching, aligned to trial start times, etc.) data as follows:
