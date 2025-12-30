@@ -8,7 +8,7 @@ This respository contains the code and paths to structured data to reproduce all
    * tfcRSC.mat
 2. Code
    * mainAnalysisPipeline.m
-   * special functions
+   * custom functions
 ## Data structures
 All structures are organized with pre-processed (longitudinally registered, detrended for photobleaching, aligned to trial start times, etc.) data as follows:
  - shockExp
@@ -56,6 +56,8 @@ This structure contains the data for the RSC-implanted animals in Figs. 3-5.
 7. Calculate and plot trajectories for individual animals
 8. For TFC, analyze & visualize behavior
 
+### Custom functions
+These functions make shaded area plots where the line is mean and the area is SEM
 
 
 
