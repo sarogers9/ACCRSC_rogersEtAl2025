@@ -22,13 +22,13 @@ All structures are organized with pre-processed (longitudinally registered, detr
       * tensors
           * a cell containing a tensor of samples x ROIs x trials size for each animal containing calcium fluorescence over each trial.
 ### All data are in this [Google Drive folder](https://drive.google.com/drive/folders/1WfiPiSTn8dxITaw50XrYa7ysv36WHvn7?usp=sharing)
-### shockStability.mat
+#### shockStability.mat
 This structure contains the data for the ACC-implanted animals in Figs. 1 and 2.
-### shockStabilityRSC.mat
+#### shockStabilityRSC.mat
 This structure contains the data for the RSC-implanted animals in Figs. 1 and 2.
-### rogers2025data2.mat
+#### rogers2025data2.mat
 This structure contains the data for the ACC-implanted animals in Figs. 3-5.
-### rogers2025CalciumData.mat
+#### rogers2025CalciumData.mat
 This structure contains the data for the RSC-implanted animals in Figs. 3-5.
 ## Code
 ### mainAnalysisPipeline.m
